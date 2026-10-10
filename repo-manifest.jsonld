@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-alembic/commit/9425c61473ab4700706f13344217d6b605079371",
       "git:hexsha": "9425c61473ab4700706f13344217d6b605079371",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:05:26.372185+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-alembic/commit/044029f7e2b06d5a2fca2a71772731bab4f31420",
