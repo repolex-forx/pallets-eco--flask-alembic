@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-alembic",
+  "versions": [
+    {
+      "commit": "9425c61473ab4700706f13344217d6b605079371",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:05:26.372688+00:00"
+    }
+  ]
+}
